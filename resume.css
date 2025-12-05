@@ -18,10 +18,6 @@ em a {
   font-weight: bold;
 }
 
-.print {
-  text-align: center;
-}
-
 @media print {
   em {
     display: none;
